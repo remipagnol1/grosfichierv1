@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/remipagnol1/grosfichierv1/blob/420a3a3280e03776ce1a297f0eeb7a3617ad680a/index.html
